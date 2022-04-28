@@ -1353,7 +1353,7 @@ MonoBehaviour:
   s:
   - Hey Peter, it's me Joe Swanson. :Joe
   - 'Bonnie wants to have a barbeque if you want to bring over the family! '
-  - Please don't make fun of my functionless legs
+  - Please don't make fun of my functionless legs...~
 --- !u!114 &1806589775
 MonoBehaviour:
   m_ObjectHideFlags: 0
