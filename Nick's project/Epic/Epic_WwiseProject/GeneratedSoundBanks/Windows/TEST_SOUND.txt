@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1936185617	TEST_SOUND			\Default Work Unit\TEST_SOUND	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1032579012	Vibraslap	C:\Users\nicho\Desktop\Torreros-Studio-vn\Nick's project\Epic\Epic_WwiseProject\.cache\Windows\SFX\Vibraslap_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Vibraslap		297944
+

@@ -16,5 +16,20 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
+		<SoundBank Id="1936185617" Language="SFX" Hash="1208328899">
+			<ObjectPath>\SoundBanks\Default Work Unit\TEST_SOUND</ObjectPath>
+			<ShortName>TEST_SOUND</ShortName>
+			<Path>TEST_SOUND.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1936185617" Name="TEST_SOUND" ObjectPath="\Events\Default Work Unit\TEST_SOUND" DurationType="OneShot" DurationMin="3.377324" DurationMax="3.377324">
+					<IncludedMemoryFiles>
+						<File Id="1032579012" Language="SFX">
+							<ShortName>Vibraslap.wav</ShortName>
+							<Path>SFX\Vibraslap_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>
