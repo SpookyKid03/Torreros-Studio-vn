@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/First Epic Cutscene.unity
+    guid: fd604dc467ea8de4798ba46974d4dd61
+  - enabled: 1
+    path: Assets/Scenes/Episode-1- Layla.unity
+    guid: 7382eb3c837924e5698b80cfd70b16df
   m_configObjects: {}
