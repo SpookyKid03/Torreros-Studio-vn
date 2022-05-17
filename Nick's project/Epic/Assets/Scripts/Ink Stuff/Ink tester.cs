@@ -23,6 +23,7 @@ public class Inktester : MonoBehaviour
         story.ChooseChoiceIndex(0);
 
         Debug.Log(loadStoryChunk());
+        Debug.Log(loadStoryChunk());
     }
 
     // Update is called once per frame
